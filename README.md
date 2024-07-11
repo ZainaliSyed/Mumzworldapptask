@@ -42,3 +42,6 @@ npm run ios
 yarn ios
 ```
 
+
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-11 at 18 18 50](https://github.com/ZainaliSyed/Mumzworldapptask/assets/24393023/a158c17e-2d29-4607-8f50-c4f800d7b80c)
